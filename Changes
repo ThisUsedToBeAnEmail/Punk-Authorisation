@@ -1,0 +1,7 @@
+Revision history for Punk-Authorisation
+
+0.02    2026-09-02
+        - FIXES: rank => [] aborted a DEBUGGING perl.
+
+0.01    2026-08-31
+        First release
